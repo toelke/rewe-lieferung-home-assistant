@@ -190,9 +190,9 @@ six==1.16.0 \
     # via
     #   ics
     #   python-dateutil
-structlog==24.2.0 \
-    --hash=sha256:0e3fe74924a6d8857d3f612739efb94c72a7417d7c7c008d12276bca3b5bf13b \
-    --hash=sha256:983bd49f70725c5e1e3867096c0c09665918936b3db27341b41d294283d7a48a
+structlog==24.3.0 \
+    --hash=sha256:bcf6b890cf8b48c35fa127ea79c155c79b9e6a4a826f4ce9dfc3bebd72f07fa8 \
+    --hash=sha256:ee4c2c7ef7971201f89f85893a4470ecd03bbd97bb54d75581225fdb894689a4
     # via -r requirements.in
 TatSu==5.12.1 \
     --hash=sha256:57a6da442f71f07cac4fc99c5f997e2559e340b9e5177449dc35b751e18e3405 \

@@ -157,9 +157,9 @@ jaraco-text==4.0.0 \
     --hash=sha256:1472f5a04a4cf77a0a3867495c24736ed9dc406070634934455323fa3a2c63de \
     --hash=sha256:389e25c8d4b32e9715bf530596fab0f5cd3aa47296e43969392e18a541af592c
     # via jaraco-collections
-more-itertools==10.4.0 \
-    --hash=sha256:0f7d9f83a0a8dcfa8a2694a770590d98a67ea943e3d9f5298309a484758c4e27 \
-    --hash=sha256:fe0e63c4ab068eac62410ab05cccca2dc71ec44ba8ef29916a0090df061cf923
+more-itertools==10.5.0 \
+    --hash=sha256:037b0d3203ce90cca8ab1defbbdac29d5f993fc20131f3664dc8d6acfa872aef \
+    --hash=sha256:5482bfef7849c25dc3c6dd53a6173ae4795da2a41a80faea6700d9f5846c5da6
     # via
     #   cheroot
     #   cherrypy

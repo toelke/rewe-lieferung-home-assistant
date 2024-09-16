@@ -130,9 +130,9 @@ ics==0.7.2 \
     --hash=sha256:5fcf4d29ec6e7dfcb84120abd617bbba632eb77b097722b7df70e48dbcf26103 \
     --hash=sha256:6743539bca10391635249b87d74fcd1094af20b82098bebf7c7521df91209f05
     # via -r requirements.in
-idna==3.8 \
-    --hash=sha256:050b4e5baadcd44d760cedbd2b8e639f2ff89bbc7a5730fcc662954303377aac \
-    --hash=sha256:d838c2c0ed6fced7693d5e8ab8e734d5f8fda53a039c0164afb0b82e771e3603
+idna==3.10 \
+    --hash=sha256:12f65c9b470abda6dc35cf8e63cc574b1c52b11df2c86030af0ac09b01b13ea9 \
+    --hash=sha256:946d195a0d259cbba61165e88e65941f16e9b36ea6ddb97f00452bae8b1287d3
     # via requests
 inflect==7.4.0 \
     --hash=sha256:85af0997ee2bda942b1c1eed8c8a827abda91aa3e22d1efaa0eea817f9350ce7 \

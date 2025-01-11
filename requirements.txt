@@ -196,9 +196,9 @@ structlog==24.4.0 \
     --hash=sha256:597f61e80a91cc0749a9fd2a098ed76715a1c8a01f73e336b746504d1aad7610 \
     --hash=sha256:b27bfecede327a6d2da5fbc96bd859f114ecc398a6389d664f62085ee7ae6fc4
     # via -r requirements.in
-TatSu==5.13.0 \
-    --hash=sha256:b807462a28a884ce10621cbb85c1684727a56f5041dccd6f62b06207f2909c9d \
-    --hash=sha256:def5ae1ddd6521041c9f20ebb26e073d96df965cada9194bada8c66534d54512
+TatSu==5.13.1 \
+    --hash=sha256:941e12df8798f444957600346c52a5ff3455f485de5b4570a3a71a00ed896a14 \
+    --hash=sha256:df8c216eecd09af9b5b308624f1bfda1e4b5af3d3df1bdc4f331a1e8ea6bc012
     # via ics
 tempora==5.8.0 \
     --hash=sha256:1e9606e65a3f2063460961d68515dee07bdaca0859305a8d3e6604168175fef1 \

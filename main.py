@@ -34,7 +34,7 @@ def get_delivery_id():
         log.debug(e.name)
         if re.search(r"REWE", e.name):
             log.debug("Found delivery event", description=e.description)
-            return re.search("https://wannkommt\.rewe\.de/([^\"]+)", e.description).group(1)
+            return re.search("wannkommt\.rewe\.de/([^\"]+)", e.description).group(1)
 
     return None
 

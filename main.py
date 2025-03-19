@@ -53,9 +53,11 @@ def get_delivery_status():
         json={'zipCode': zipCode},
     ).json()
 
+    log.debug("Delivery status", delivery=delivery)
+
     return (
         {
-            "status": delivery["orderStatus"],
+            "status": delivery["orderStatusList"][0]["status"],
         }
         | (
             {

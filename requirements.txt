@@ -18,7 +18,7 @@ cachetools==6.0.0
     # via -r requirements.in
 certifi==2025.1.31
     # via requests
-charset-normalizer==3.4.1
+charset-normalizer==3.4.2
     # via requests
 cheroot==10.0.1
     # via cherrypy

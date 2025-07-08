@@ -4,7 +4,7 @@ Wir bestellen gerne beim REWE Lieferdienst. Damit wir auf einen Blick sehen, wan
 
 ![Screenshot der Karte im Home Assistant](.assets/dashboard-shot.png)
 
-Dazu läuft der Code dieses Repos. Er sucht in unserem gemeinsamen Google Kalender nach einem Eintrag "REWE Lieferservice Zustellung". In diesen Eintrag fügen wir immer einen Link auf die Statusseite ein:
+Dazu läuft der Code dieses Repos. Er sucht in unserem gemeinsamen Google Kalender nach einem Eintrag "REWE Lieferservice Zustellung". In diesen Eintrag fügen wir immer einen Link auf die Statusseite ein. Das geht auch automatisch mit [LingqLover/chrome-wannkommtrewe-calendar](https://github.com/LinqLover/chrome-wannkommtrewe-calendar).
 
 ![Screenshot des Eintrags im Google Kalender](.assets/calendar-shot.png)
 

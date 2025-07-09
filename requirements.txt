@@ -16,7 +16,7 @@ autocommand==2.2.2
     # via jaraco-text
 cachetools==6.1.0
     # via -r requirements.in
-certifi==2025.6.15
+certifi==2025.7.9
     # via requests
 charset-normalizer==3.4.2
     # via requests

@@ -14,7 +14,7 @@ attrs==25.3.0
     # via ics
 autocommand==2.2.2
     # via jaraco-text
-cachetools==6.1.0
+cachetools==6.2.0
     # via -r requirements.in
 certifi==2025.8.3
     # via requests

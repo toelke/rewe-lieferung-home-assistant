@@ -20,7 +20,7 @@ certifi==2025.11.12
     # via requests
 charset-normalizer==3.4.4
     # via requests
-cheroot==11.0.0
+cheroot==11.1.2
     # via cherrypy
 cherrypy==18.10.0
     # via -r requirements.in

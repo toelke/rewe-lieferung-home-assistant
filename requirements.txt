@@ -64,7 +64,7 @@ tatsu==5.13.2
     # via ics
 tempora==5.8.1
     # via portend
-types-python-dateutil==2.9.0.20251008
+types-python-dateutil==2.9.0.20251115
     # via arrow
 urllib3==2.5.0
     # via requests

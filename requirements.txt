@@ -37,7 +37,7 @@ jaraco-functools==4.4.0
     #   cheroot
     #   jaraco-text
     #   tempora
-jaraco-text==4.0.0
+jaraco-text==4.1.0
     # via jaraco-collections
 more-itertools==10.8.0
     # via

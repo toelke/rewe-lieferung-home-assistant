@@ -70,7 +70,7 @@ six==1.17.0
     #   python-dateutil
 structlog==25.5.0
     # via -r requirements.in
-tatsu==5.13.2
+tatsu==5.17.1
     # via
     #   -r requirements.in
     #   ics

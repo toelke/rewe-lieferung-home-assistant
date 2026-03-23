@@ -10,7 +10,7 @@ arrow==1.4.0
     # via
     #   -r requirements.in
     #   ics
-attrs==25.4.0
+attrs==26.1.0
     # via ics
 cachetools==7.0.5
     # via -r requirements.in

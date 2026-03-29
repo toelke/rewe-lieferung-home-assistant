@@ -51,7 +51,7 @@ more-itertools==10.8.0
     #   jaraco-text
 portend==3.2.1
     # via cherrypy
-pygments==2.19.2
+pygments==2.20.0
     # via rich
 python-dateutil==2.9.0.post0
     # via

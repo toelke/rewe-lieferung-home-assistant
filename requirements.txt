@@ -60,7 +60,7 @@ python-dateutil==2.9.0.post0
     #   tempora
 requests==2.33.1
     # via -r requirements.in
-rich==14.3.3
+rich==14.3.4
     # via typer
 shellingham==1.5.4
     # via typer

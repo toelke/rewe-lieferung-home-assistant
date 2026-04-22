@@ -22,7 +22,7 @@ cheroot==11.1.2
     # via cherrypy
 cherrypy==18.10.0
     # via -r requirements.in
-click==8.3.2
+click==8.3.3
     # via typer
 ics==0.7.2
     # via -r requirements.in

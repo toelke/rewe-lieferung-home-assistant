@@ -24,14 +24,18 @@ cherrypy==18.10.0
     # via -r requirements.in
 click==8.3.3
     # via typer
-ics==0.7.2
+ics==0.7.3
     # via -r requirements.in
 idna==3.15
     # via requests
 jaraco-collections==5.2.1
-    # via cherrypy
+    # via
+    #   cherrypy
+    #   tempora
 jaraco-context==6.1.2
-    # via jaraco-text
+    # via
+    #   jaraco-text
+    #   tempora
 jaraco-functools==4.4.0
     # via
     #   cheroot
@@ -49,6 +53,7 @@ more-itertools==11.0.2
     #   cherrypy
     #   jaraco-functools
     #   jaraco-text
+    #   tempora
 portend==3.2.1
     # via cherrypy
 pygments==2.20.0
@@ -70,10 +75,8 @@ six==1.17.0
     #   python-dateutil
 structlog==25.5.0
     # via -r requirements.in
-tatsu==5.19.0
-    # via
-    #   -r requirements.in
-    #   ics
+tatsu==5.15.1
+    # via ics
 tempora==5.9.0
     # via portend
 typer==0.25.1

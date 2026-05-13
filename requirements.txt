@@ -75,7 +75,7 @@ six==1.17.0
     #   python-dateutil
 structlog==25.5.0
     # via -r requirements.in
-tatsu==5.15.1
+tatsu==5.19.0
     # via ics
 tempora==5.9.0
     # via portend

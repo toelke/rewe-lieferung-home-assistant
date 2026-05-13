@@ -58,7 +58,7 @@ python-dateutil==2.9.0.post0
     #   arrow
     #   ics
     #   tempora
-requests==2.33.1
+requests==2.34.0
     # via -r requirements.in
 rich==15.0.0
     # via typer

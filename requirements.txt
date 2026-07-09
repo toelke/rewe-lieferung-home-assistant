@@ -36,7 +36,7 @@ jaraco-context==6.1.2
     # via
     #   jaraco-text
     #   tempora
-jaraco-functools==4.4.0
+jaraco-functools==4.5.0
     # via
     #   cheroot
     #   jaraco-text

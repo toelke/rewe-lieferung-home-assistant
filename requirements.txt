@@ -79,7 +79,7 @@ tatsu==5.15.1
     # via ics
 tempora==5.9.0
     # via portend
-typer==0.25.1
+typer==0.26.8
     # via typer-slim
 typer-slim==0.24.0
     # via jaraco-text

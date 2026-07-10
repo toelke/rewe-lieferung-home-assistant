@@ -83,7 +83,7 @@ typer==0.26.8
     # via typer-slim
 typer-slim==0.24.0
     # via jaraco-text
-tzdata==2026.2
+tzdata==2026.3
     # via arrow
 urllib3==2.7.0
     # via requests

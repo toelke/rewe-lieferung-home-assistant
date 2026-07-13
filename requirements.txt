@@ -41,7 +41,7 @@ jaraco-functools==4.5.0
     #   cheroot
     #   jaraco-text
     #   tempora
-jaraco-text==4.2.0
+jaraco-text==4.3.0
     # via jaraco-collections
 markdown-it-py==4.2.0
     # via rich

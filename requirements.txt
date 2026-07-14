@@ -77,7 +77,7 @@ structlog==26.1.0
     # via -r requirements.in
 tatsu==5.15.1
     # via ics
-tempora==5.9.0
+tempora==5.12.0
     # via portend
 typer==0.26.8
     # via typer-slim

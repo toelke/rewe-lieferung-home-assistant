@@ -14,7 +14,7 @@ attrs==26.1.0
     # via ics
 cachetools==7.1.4
     # via -r requirements.in
-certifi==2026.6.17
+certifi==2026.7.22
     # via requests
 charset-normalizer==3.4.7
     # via requests

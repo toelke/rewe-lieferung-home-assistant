@@ -56,7 +56,7 @@ more-itertools==11.1.0
     #   tempora
 portend==3.2.1
     # via cherrypy
-pygments==2.20.0
+pygments==2.21.0
     # via rich
 python-dateutil==2.9.0.post0
     # via

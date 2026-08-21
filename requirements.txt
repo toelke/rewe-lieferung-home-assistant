@@ -26,7 +26,7 @@ click==8.4.2
     # via typer
 ics==0.7.3
     # via -r requirements.in
-idna==3.18
+idna==3.19
     # via requests
 jaraco-collections==5.2.1
     # via

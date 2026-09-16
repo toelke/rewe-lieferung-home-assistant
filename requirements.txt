@@ -85,7 +85,7 @@ typer-slim==0.24.0
     # via jaraco-text
 tzdata==2026.4
     # via arrow
-urllib3==2.7.0
+urllib3==2.8.0
     # via requests
 zc-lockfile==4.0
     # via cherrypy

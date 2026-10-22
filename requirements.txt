@@ -58,7 +58,7 @@ portend==3.2.1
     # via cherrypy
 pygments==2.21.0
     # via rich
-python-dateutil==2.9.0.post0
+python-dateutil==3.0.0
     # via
     #   arrow
     #   ics

@@ -87,7 +87,7 @@ tzdata==2026.6
     # via arrow
 urllib3==2.8.0
     # via requests
-zc-lockfile==4.0
+zc-lockfile==4.1
     # via cherrypy
 
 # The following packages are considered to be unsafe in a requirements file:
